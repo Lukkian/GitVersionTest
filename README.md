@@ -4,3 +4,4 @@
 4. Preparing v1.1.0
 5. Do 1 more change
 6. Change 2 
+6. Change 3 
